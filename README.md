@@ -3,7 +3,7 @@ Module18
 
 
 ### Purpose of ***Module18: Unsupervised Machine Learning and Cryptocurrencies***:
-Along reading this Module, I have successfully been able to learn, notice, connect and apply the preceding Modules, which are ETL-Module 8, some of the modules related to pandas Dataframes and Supervised Learning Model-Chapter 17. 
+Simultaneously reading this Module, I have successfully been able to learn, notice, connect and apply the preceding Modules, which are ETL-Module 8, some of the modules related to pandas Dataframes and Supervised Learning Model-Chapter 17. 
 
 I have learned and applied the knowledge of: 
 1. Noticing the data and treating them with respect to their respective categories: Supervised and Unsupervised.
